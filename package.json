@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "eslint-plugin-prettier": "^3.1.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "prettier-eslint": "^9.0.0"
   },
   "devDependencies": {
@@ -41,6 +41,6 @@
     "nodemon": "^1.18.9",
     "prettier": "^1.18.2",
     "tailwindcss": "^1.0.0",
-    "vue-jest": "^3.0.3"
+    "vue-jest": "^4.0.1"
   }
 }
